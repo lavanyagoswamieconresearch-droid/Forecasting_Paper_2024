@@ -1,3 +1,7 @@
+Co-authored by: Lavanya Goswami, Siddhant Shetty, Shreyansh Dwivedy;
+Guided By: Prof. Piyali Banerjee, Economic Forecasting and Analysis 2023
+
+**Abstract**:
 This paper endeavors to forecast trends in countries' renewable energy shares 
 relative to total energy consumption, encompassing a diverse selection based 
 on geographical, economic, and climatic factors. Employing an ARIMA model with 
